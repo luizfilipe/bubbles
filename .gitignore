@@ -1,0 +1,13 @@
+bower_components/
+node_modules/
+textures/old/
+js/debug/
+js/src/
+.idea/
+
+package.json
+bower.json
+
+Gruntfile.js
+
+.jshintrc
